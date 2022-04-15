@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Felipe Martins</h1>
 <h3 align="center">A frontend developer ever improving your skills</h3>
 
-- 🔭 I’m currently working on one of my personal projects. This time on another challenge from frontend mentor called Easybank
-- 🌱 I’m currently learning more about **React** (going up a step to improve my codes), **functional programming with JS** and, as you can see, **English!** 😁
-- 📫 How to reach me **femartins2010@gmail.com**
+- 🔭 I’m currently working on one of my personal projects. This time on another challenge from frontend mentor called Space tourism
+- 🌱 I’m currently learning more about **Next.js** (going up a step to improve my codes), **functional programming with JS** and **English!** 😁
+- 📫 How to reach me **femartins2010@gmail.com** or from [Linkedin](https://www.linkedin.com/in/felipesilm)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
